@@ -1,7 +1,7 @@
 # AI Chat Mod
 
 ## Overview
-**AI Chat** is a lightweight Minecraft mod that integrates an AI assistant directly into your game using the `/aichat` command. Players can ask questions, get creative suggestions, or have dynamic conversations with an AI powered by [Pollinations.AI](https://pollinations.ai/). All responses appear in-game with native Minecraft chat formatting.
+**AI Chat** is a lightweight Minecraft mod that integrates an AI assistant directly into your game using the `/aichat` command. Players can ask questions, get creative suggestions, or have dynamic conversations with an AI powered by [Pollinations.AI](https://pollinations.ai/).
 
 Currently, chat context is not supported.
 
