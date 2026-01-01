@@ -1,0 +1,41 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="chatai"
+version="1.0.1"
+displayName="AI Chat API"
+displayURL="https://space.bilibili.com/3493284076849745"
+logoFile="logo.png"
+credits="Powered by Pollinations.AI free text APIs. https://pollinations.ai/redirect/kofi"
+authors="aiLinMc"
+description="Let's talk to AI!"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.chatai]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.176,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.chatai]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+
+# Start of user code block custom mixins
+# End of user code block custom mixins
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
