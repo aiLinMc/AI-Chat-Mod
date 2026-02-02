@@ -4,7 +4,7 @@ license="GNU General Public License version 3 (GPLv3)"
 
 [[mods]]
 modId="chatai"
-version="1.0.1"
+version="1.1.0"
 displayName="AI Chat API"
 displayURL="https://space.bilibili.com/3493284076849745"
 logoFile="logo.png"

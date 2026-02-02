@@ -1,3 +1,26 @@
 {
-  "message.chatai.timeout": "服务器繁忙，请稍后再试。"
+  "message.chatai.timeout": "服务器繁忙，请稍后再试。",
+  "message.chatai.seed_error": "错误：seed参数必须为一个数字或\"random\"",
+  "message.chatai.disable_command_block": "此命令无法在命令方块中执行",
+  "message.chatai.generation_time": "§b[生成用时]§b %sms",
+  "gui.chatai.config.title": "AIChat - 配置",
+  "gui.chatai.config.tab.markdown": "Markdown 设置",
+  "gui.chatai.config.tab.display": "显示设置",
+  "gui.chatai.config.save": "保存",
+  "gui.chatai.config.cancel": "取消",
+  "gui.chatai.config.on": "开",
+  "gui.chatai.config.off": "关",
+  "chatai.config.enable_markdown": "启用Markdown格式处理",
+  "chatai.config.enable_code_blocks": "代码块",
+  "chatai.config.enable_tables": "表格",
+  "chatai.config.enable_math": "数学公式",
+  "chatai.config.enable_headers": "标题",
+  "chatai.config.enable_lists": "列表",
+  "chatai.config.enable_bold": "粗体",
+  "chatai.config.enable_italic": "斜体",
+  "chatai.config.enable_strikethrough": "删除线",
+  "chatai.config.enable_underline": "下划线",
+  "chatai.config.enable_inline_code": "行内代码",
+  "chatai.config.show_seed": "显示种子",
+  "chatai.config.show_generation_time": "显示生成用时"
 }

@@ -1,3 +1,26 @@
 {
-  "message.chatai.timeout": "The server is busy, please try again later."
+  "message.chatai.timeout": "The server is busy, please try again later.",
+  "message.chatai.seed_error": "Error: Seed parameter must be a number or \u0027random\u0027",
+  "message.chatai.disable_command_block": "The command can\u0027t be executed in Command Block",
+  "message.chatai.generation_time": "§b[Generation time]§b %sms",
+  "gui.chatai.config.title": "AIChat - Configuration",
+  "gui.chatai.config.tab.markdown": "Markdown Settings",
+  "gui.chatai.config.tab.display": "Display Settings",
+  "gui.chatai.config.save": "Save",
+  "gui.chatai.config.cancel": "Cancel",
+  "gui.chatai.config.on": "On",
+  "gui.chatai.config.off": "Off",
+  "chatai.config.enable_markdown": "Enable Markdown Processing",
+  "chatai.config.enable_code_blocks": "Code Blocks",
+  "chatai.config.enable_tables": "Tables",
+  "chatai.config.enable_math": "Math Formulas",
+  "chatai.config.enable_headers": "Headers",
+  "chatai.config.enable_lists": "Lists",
+  "chatai.config.enable_bold": "Bold",
+  "chatai.config.enable_italic": "Italic",
+  "chatai.config.enable_strikethrough": "Strikethrough",
+  "chatai.config.enable_underline": "Underline",
+  "chatai.config.enable_inline_code": "Inline Code",
+  "chatai.config.show_seed": "Show Seed",
+  "chatai.config.show_generation_time": "Show Generation Time"
 }
